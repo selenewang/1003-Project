@@ -1,0 +1,15 @@
+,Mean
+Baseline (OLS),28.78285314
+Ridge,22.36606064
+Lasso,22.31767502
+Elastic Net,22.33244351
+Bayesian Ridge,22.34385419
+Cluster+Ridge,19.81659032
+Cluster+Lasso,19.81896529
+Cluster+ElasticNet,19.8629173
+Cluster+BayesianRidge,19.85207953
+RandomForest,16.90636744
+KernelRidge,21.33772049
+SVR,20.68884599
+GBRT,16.17564331
+XGBoost,16.19330502
